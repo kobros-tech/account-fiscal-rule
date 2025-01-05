@@ -9,3 +9,5 @@
   - Murtuza Saleh
 - Sodexis
   - Atchuthan Ubendran
+- Kencove (<https://kencove.com>)
+  - Mohamed Alkobrosli \<<malkobrosly@kencove.com>\>
